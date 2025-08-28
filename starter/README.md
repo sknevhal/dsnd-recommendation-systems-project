@@ -1,3 +1,8 @@
-# Purpose of this Folder
+# The **`data`** folder Purpose
 
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
+This folder is intended to store data files used in the project.  
+Currently, it contains:
+
+- **`user-item-interactions.csv`**: A dataset contains various articles on the IBM Watson Studio platform.
+
+> Note: Only processed or project-related datasets should be stored here to keep the repository organized.
