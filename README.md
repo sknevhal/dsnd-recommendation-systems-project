@@ -48,7 +48,7 @@ In order to build better recommendations for the users of IBM's platform, we cou
 
 - IV. Content Based Recommendations
 
-Since we are provided some content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using NLP, we'll come up with a simple method to cluster similar articles together so we can recommend related content that the user may have already interacted with.
+Since we are provided some content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using NLP, we'll use a simple method to cluster similar articles together so we can recommend related content that the user may have already interacted with.
 
 - V. Matrix Factorization
 
